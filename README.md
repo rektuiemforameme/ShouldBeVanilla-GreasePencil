@@ -7,7 +7,7 @@ Batch Add Mask(s) and Batch Set Layer Property allow you to add masks and change
 
 ![Layer Specials context menu](https://i.imgur.com/IExyLwZ.png)
 
-Selecting one of these options will open a popup dialogue that will let you select the layers you want the operations to affect and the mask(s) to add or the property to change and what to change it to. You can select the layers to affect from the list. The buttons on the bottom left of the layer list change the selection. The left button will deselect all layers, the middle button will invert the selection and the right button will deselect all layers.
+Selecting one of these options will open a popup dialogue that will let you select the layers you want the operations to affect and the mask(s) to add or the property to change and what to change it to. You can select the layers to affect from the list. The buttons on the bottom left of the layer list change the selection. The left button will deselect all layers, the middle button will invert the selection and the right button will select all layers.
 
 ![Layer Selecting](https://i.imgur.com/qat3UVF.gif)
 
